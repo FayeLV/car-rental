@@ -8,7 +8,7 @@
 
 <h3>Build with:</h3>
 
-» Sass / Scss <br>
+» Css <br>
 » React JS
 
 <h2>Screenshots of the Project 📸</h2>
